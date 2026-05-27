@@ -1,0 +1,209 @@
+[
+  {
+    "name": "元大台灣50",
+    "ticker": "0050.TW",
+    "shares": 4000,
+    "cost_price": 60.53,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "元大美債20年",
+    "ticker": "00679B.TW",
+    "shares": 30000,
+    "cost_price": 26.96,
+    "trail_pct": 6,
+    "take_profit_pct": 12,
+    "stop_loss_pct": 8
+  },
+  {
+    "name": "野村趨勢動能高息",
+    "ticker": "00944.TW",
+    "shares": 50000,
+    "cost_price": 14.14,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "主動統一台股增長",
+    "ticker": "00981A.TW",
+    "shares": 19000,
+    "cost_price": 23.49,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "聯華食",
+    "ticker": "1231.TW",
+    "shares": 1100,
+    "cost_price": 125.91,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "台達電",
+    "ticker": "2308.TW",
+    "shares": 100,
+    "cost_price": 2005.0,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "台積電",
+    "ticker": "2330.TW",
+    "shares": 1200,
+    "cost_price": 1274.67,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "廣達",
+    "ticker": "2382.TW",
+    "shares": 1000,
+    "cost_price": 321.5,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "京元電子",
+    "ticker": "2449.TW",
+    "shares": 600,
+    "cost_price": 334.75,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "聯發科",
+    "ticker": "2454.TW",
+    "shares": 550,
+    "cost_price": 664.62,
+    "trail_pct": 10,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "兆赫",
+    "ticker": "2485.TW",
+    "shares": 6000,
+    "cost_price": 78.08,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "奇鋐",
+    "ticker": "3017.TW",
+    "shares": 100,
+    "cost_price": 2552.5,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "日電貿",
+    "ticker": "3090.TW",
+    "shares": 1000,
+    "cost_price": 117.0,
+    "trail_pct": 10,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "欣銓",
+    "ticker": "3264.TWO",
+    "shares": 2000,
+    "cost_price": 232.75,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "嘉澤",
+    "ticker": "3533.TW",
+    "shares": 200,
+    "cost_price": 1628.72,
+    "trail_pct": 10,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "光頡",
+    "ticker": "3624.TWO",
+    "shares": 1000,
+    "cost_price": 93.5,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "有成精密",
+    "ticker": "4949.TWO",
+    "shares": 400,
+    "cost_price": 100.0,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "世界",
+    "ticker": "5347.TWO",
+    "shares": 1000,
+    "cost_price": 169.5,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "台耀",
+    "ticker": "4746.TWO",
+    "shares": 500,
+    "cost_price": 497.49,
+    "trail_pct": 12,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "康舒",
+    "ticker": "6282.TW",
+    "shares": 2000,
+    "cost_price": 50.93,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "光聖",
+    "ticker": "6442.TW",
+    "shares": 100,
+    "cost_price": 2111.0,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "鈺邦",
+    "ticker": "6449.TW",
+    "shares": 1000,
+    "cost_price": 181.0,
+    "trail_pct": 10,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  },
+  {
+    "name": "長科",
+    "ticker": "6548.TWO",
+    "shares": 1000,
+    "cost_price": 54.2,
+    "trail_pct": 8,
+    "take_profit_pct": 20,
+    "stop_loss_pct": 10
+  }
+]
